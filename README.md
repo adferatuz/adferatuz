@@ -1,18 +1,18 @@
-# 👋 ¡Hola! Soy Adferatuz (Tu Nombre Completo)
+# 👋 ¡Hola! Soy Adferatuz (Adrian Fernandez)
 
-### 💻 Desarrollador de Software | [Tu Rol Principal, e.g., Ingeniero Full-Stack] | Creador Digital
+### 💻 Desarrollador de Software Back-end y Creador Digital.
 
 ---
 
 ## 🧠 Sobre Mí y Lo que Hago
 
-Soy un desarrollador de software apasionado por **[tu principal interés, e.g., crear soluciones web escalables, el análisis de datos, o la automatización de procesos]**. Mi objetivo es transformar ideas complejas en código funcional y eficiente.
+Soy un desarrollador de software apasionado por el mundo de la programacion con enfoque a la solucion de problemas en la parte tecnologica. Mi objetivo es transformar ideas complejas en código funcional y eficiente.
 
-* 🔭 Actualmente estoy trabajando en: **[Menciona un proyecto personal o laboral, e.g., Refactorizando una API REST con Python/Node.js para mejorar el rendimiento.]**
-* 🌱 Siempre aprendiendo: **[Una tecnología o área que estés explorando, e.g., Arquitectura Serverless con AWS Lambda, o el patrón de diseño Clean Architecture.]**
-* 👯 Estoy buscando colaborar en: **[Tipo de proyecto o comunidad, e.g., Proyectos Open Source relacionados con Python y Machine Learning.]**
-* 💬 Pregúntame sobre: **[Tu área de experticia, e.g., Desarrollo Back-end, integración con Stripe, o despliegues con Docker/Kubernetes.]**
-* ⚡ Dato curioso: **[Algo interesante sobre ti, e.g., Me encanta el café y creo que los mejores bugs se resuelven a las 3 AM.]**
+* 🔭 Actualmente estoy trabajando en: Tecnoparque SENA Nodo Bogotá.
+* 🌱 Siempre aprendiendo: MCP server, Desarrollo de software en Java y SpringBoot, Node.js y Express.js, Python, y mucho más.
+* 👯 Estoy buscando colaborar en: Proyectos Open Source relacionados con Python y Machine Learning, Desarrollo de aplicaciones Web Backend, Administracion de Bases de datos, etc.
+* 💬 Pregúntame sobre: Desarrollo Back-end, integración con Stripe, o despliegues con Docker/Kubernetes, Comunicaciones SSE para notificaciones push o en tiempo real, etc.
+* ⚡ Dato curioso: Me encanta el café y creo que los mejores bugs se resuelven a las 3 AM.
 
 ---
 
