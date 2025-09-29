@@ -22,10 +22,10 @@ Aquí están las herramientas y tecnologías que uso para construir cosas:
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes Principales** | `Python`  `JavaScript` | `TypeScript` | `SQL` |
-| **Back-end** | `Node.js` | `Express` | `Django` | `FastAPI` |
-| **Front-end** | `React` | `Next.js` | `HTML5` | `CSS3` |
-| **Bases de Datos** | `PostgreSQL` | `MongoDB` | `MySQL` |
+| **Lenguajes Principales** | `Python`  `JavaScript`  `TypeScript`  `SQL`  `Java`
+| **Back-end** | `Node.js` `Express` `SpringBoot3` 
+| **Front-end** | `React`  `HTML5`  `CSS3` 
+| **Bases de Datos** | `PostgreSQL`  `MongoDB`  `MySQL` 
 | **Cloud & DevOps** | `AWS` | `Docker` | `Kubernetes` | `Git/GitHub` |
 
 
