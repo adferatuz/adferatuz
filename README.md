@@ -26,7 +26,7 @@ Aquí están las herramientas y tecnologías que uso para construir cosas:
 | **Back-end** | `Node.js` `Express` `SpringBoot3` 
 | **Front-end** | `React`  `HTML5`  `CSS3` 
 | **Bases de Datos** | `PostgreSQL`  `MongoDB`  `MySQL` 
-| **Cloud & DevOps** | `AWS` | `Docker` | `Kubernetes` | `Git/GitHub` |
+| **Cloud & DevOps** |  `Docker` `Git/GitHub` |
 
 
 
